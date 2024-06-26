@@ -1,0 +1,27 @@
+{
+    "id": "0843D6A7",
+    "path": "C://Projet_Creation_Gestion_Fonction/function.R",
+    "project_path": "function.R",
+    "type": "r_source",
+    "hash": "2772971134",
+    "contents": "",
+    "dirty": false,
+    "created": 1719432739314.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "47,17",
+        "scrollLine": "21"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1719441252,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1719441252724,
+    "read_only": false,
+    "read_only_alternatives": []
+}
