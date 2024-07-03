@@ -47,3 +47,10 @@ center_vector <- function(x) {
 correlation_matrix <- function(df) {
   return(cor(df))
 }
+Print("coucou, ceci est un test :)")
+# Fonction pour calculer le coefficient de variation d'un vecteur
+coefficient_variation <- function(x) {
+  moyenne <- mean(x, na.rm = TRUE)
+  ecart_type <- sd(x, na.rm = TRUE)
+  return(ecart_type / moyenne)
+}
