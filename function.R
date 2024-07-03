@@ -47,7 +47,4 @@ center_vector <- function(x) {
 correlation_matrix <- function(df) {
   return(cor(df))
 }
-# Fonction pour calculer la variance d'un vecteur
-variance_vecteur <- function(x) {
-  return(var(x, na.rm = TRUE))
-}
+Print("coucou, ceci est un test")
